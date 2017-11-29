@@ -1,3 +1,4 @@
+#coding=UTF-8
 import requests
 
 # https://sp0.baidu.com/8aQDcjqpAAV3otqbppnN2DJv/api.php?resource_name=guishudi&query=1391381+%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%AE%B5
