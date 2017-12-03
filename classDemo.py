@@ -1,5 +1,6 @@
 class Employee:
     classSpec = "this a test class"
+    __primaryname = "si you de "
     def __init__(self,name,salary):
         self.name = name
         self.salary = salary
