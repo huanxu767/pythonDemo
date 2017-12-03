@@ -8,4 +8,5 @@ def getRandom():
 def concatenate(group):
     return "-".join([getRandom() for i in range(group)])
 
-print concatenate(5)
+if __name__ == '__main__':
+    print concatenate(5)
